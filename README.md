@@ -1,2 +1,6 @@
+# README
+
+## Internship at Corseco Technologies
 This repository is for the data science internship at Corseco Technologies.
-- Currently I am learning GitHub and it's basics
+- I am learning Basics of GitHub : Anjali Aggarwal 
+- This repo would be reviewed by @aniketmaithani
